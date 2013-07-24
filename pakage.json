@@ -1,0 +1,6 @@
+{
+  "name":"super paquete",
+	"version":"0.0.1",
+	"main":"servidor.js"
+
+}
